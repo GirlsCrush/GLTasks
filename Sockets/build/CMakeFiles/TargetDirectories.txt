@@ -1,0 +1,3 @@
+/home/lionn/glhw1/Sockets/build/CMakeFiles/rebuild_cache.dir
+/home/lionn/glhw1/Sockets/build/CMakeFiles/main.dir
+/home/lionn/glhw1/Sockets/build/CMakeFiles/edit_cache.dir

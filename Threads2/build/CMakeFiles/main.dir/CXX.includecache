@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lionn/glhw1/Threads2/main.cpp
+cstdlib
+-
+iostream
+-
+random
+-
+ctime
+-
+memory
+-
+iomanip
+-
+chrono
+-
+thread
+-
+mutex
+-
+future
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -O3  -Wl,--enable-auto-import CMakeFiles/mt_1.dir/main.cpp.o  -o mt_1.exe -Wl,--out-implib,libmt_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 -lpthread 
